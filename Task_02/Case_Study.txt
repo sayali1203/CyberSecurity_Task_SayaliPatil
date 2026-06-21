@@ -1,0 +1,21 @@
+WannaCry Ransomware Attack
+What Happened?
+
+WannaCry was a ransomware attack that spread worldwide in 2017. It encrypted users' files and demanded payment in Bitcoin to restore access.
+
+Which Part of CIA Triad Was Affected?
+
+Availability was mainly affected because users could not access their files.
+
+Integrity was also affected because files were modified through encryption.
+
+Impact
+More than 200,000 computers infected.
+Hospitals, businesses, and government organizations were affected.
+Financial losses occurred worldwide.
+
+Prevention
+Regular software updates.
+Strong endpoint security.
+Regular backups.
+Employee security awareness training.
